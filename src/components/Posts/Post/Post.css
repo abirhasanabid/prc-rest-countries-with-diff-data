@@ -1,0 +1,16 @@
+.post{
+    border: 2px solid skyblue;
+    border-radius: 12px;
+    padding: 10px;
+    margin: 10px;
+}
+.post h3{
+    color: brown;
+};
+.post p{
+    color: burlywood;
+};
+
+.visited{
+    background-color: cadetblue;
+}
